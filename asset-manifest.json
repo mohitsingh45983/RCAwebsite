@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/RCAwebsite/static/css/main.abd2b802.css",
+    "main.js": "/RCAwebsite/static/js/main.a86898af.js",
+    "static/js/787.18bd0f68.chunk.js": "/RCAwebsite/static/js/787.18bd0f68.chunk.js",
+    "static/media/RCALogo.png": "/RCAwebsite/static/media/RCALogo.63a7b9eb8e6bd96ea1c6.png",
+    "static/media/img.jpeg": "/RCAwebsite/static/media/img.8cbf498d74d51ed716e1.jpeg",
+    "static/media/service_icon_bg_1.png": "/RCAwebsite/static/media/service_icon_bg_1.e4834cefac19d75c84eb.png",
+    "static/media/contact_bg2.png": "/RCAwebsite/static/media/contact_bg2.94fdf06f30f6499a3ba6.png",
+    "index.html": "/RCAwebsite/index.html",
+    "main.abd2b802.css.map": "/RCAwebsite/static/css/main.abd2b802.css.map",
+    "main.a86898af.js.map": "/RCAwebsite/static/js/main.a86898af.js.map",
+    "787.18bd0f68.chunk.js.map": "/RCAwebsite/static/js/787.18bd0f68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd2b802.css",
+    "static/js/main.a86898af.js"
+  ]
+}
